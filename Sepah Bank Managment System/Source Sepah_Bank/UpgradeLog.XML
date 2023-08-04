@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Bank_Reporter">
+</Property><Property Name="Solution File" Value="G:\dl\New Code\Sepah_Bank\Bank_Reporter.sln">
+</Property><Property Name="Date" Value="2014/05/21">
+</Property><Property Name="Time" Value="11:45 ق.ظ">
+</Property></Properties><Event ErrorLevel="4" Project="Bank_Reporter" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="Bank_Reporter" Source="Bank_Reporter\Bank_Reporter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Bank_Reporter" Source="Bank_Reporter\Bank_Reporter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Bank_Reporter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Bank_Reporter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Bank_Reporter" Source="Bank_Reporter\Bank_Reporter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
